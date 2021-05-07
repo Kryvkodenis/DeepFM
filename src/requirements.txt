@@ -1,0 +1,6 @@
+numpy
+pandas
+torch
+pytorch_lightning
+torchvision
+torchaudio
